@@ -11,12 +11,14 @@ pip install gTTS
 
 
 
-## Usage
+## How to Use
 
-1. Replace the sample text with the text you want to convert to audio in the script.
-2. Run the script.
-3. The generated audio file will be saved as `prueba.mp3` in the same directory.
-4. The audio will be played back automatically.
+1. **Install gTTS Library**: If you haven't already, install the `gTTS` library using pip.
+2. **Open the Script**: Open the Python script in your preferred code editor.
+3. **Replace Sample Text**: Replace the sample text in the script with the text you want to convert to audio.
+4. **Run the Script**: Execute the Python script in your terminal or code editor.
+5. **Generated Audio File**: After running the script, a file named `prueba.mp3` will be created in the same directory as the script.
+6. **Playback**: The script will automatically play back the generated audio.
 
 ##Note
 
